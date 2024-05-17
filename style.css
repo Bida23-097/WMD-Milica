@@ -82,16 +82,6 @@ body {
     color: #ffe100;
 }
 
-.sidebar {
-    width: 50px;
-    height: 100%;
-    background-color: black;
-    position: fixed;
-    top: 0;
-    display: flex;
-    padding-top: 60px;
-}
-
 .container {
     background-color: #151515;
     min-height: calc(100vh - 50px);
